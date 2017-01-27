@@ -27,5 +27,41 @@
     <ClCompile Include="2的次幂表示.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="大小写转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="寻找数组中最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="图形显示.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="送分啦.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵乘法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大最小公倍数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="删除数组零元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="未名湖边的烦恼.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Anagrams问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三个整数的排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="前缀表达式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

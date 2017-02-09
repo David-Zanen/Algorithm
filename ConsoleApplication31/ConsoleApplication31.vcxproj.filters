@@ -63,5 +63,87 @@
     <ClCompile Include="前缀表达式.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="动态数组使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Torry的困惑(基本型).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="区间k大数查询.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算法提高 题目1 最大最小.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算法提高 简单加法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算法提高 排列数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算法提高 逆序排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算法提高 约数个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算法训练 最小乘积(基本型).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="周期字串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11-1实现strcmp函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2求arccos值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9-2 文本加密.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9-1九宫格.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-1用宏求球的体积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="身份证号码升级.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9-3摩尔斯电码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大乘积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-1因式分解.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="盾神与条状项链.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算法提高 P1001.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="上帝造题五分钟.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-17复数四则运算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算法提高 第二大整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ConsoleApplication31.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>

@@ -2,25 +2,26 @@
 #include<math.h>
 using namespace std;
 
+int pailie(int m, int n)
+{
+	if (m < n)
+		return 0;
+	else if (n == 0)
+		return 1;
+	else
+		return pailie(m - 1, n) + pailie(m, n - 1);
+}
+
 int main()
 {
 	int m, n;
 	cin >> m >> n;
-	if (1 <= m&&m <= 18 && 1 <= n&&n <= 18)
+	if (0 <= m&&m <= 18 && 0 <= n&&n <= 18)
 	{
-		int js=1;
-		for (int x = m; x > m-n; x--)
-		{
-			js *= x;
-		}
-		for (int y = n; y >= 1; y--)
-		{
-			js /= y;
-		}
-		js += n;
-		cout << js << endl;
+		cout << pailie(m, n) << endl;
 	}
 
 	system("pause");
 	return 0;
-}*/
+}
+*/

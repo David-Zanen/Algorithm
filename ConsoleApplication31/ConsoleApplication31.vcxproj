@@ -146,22 +146,52 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="11-1实现strcmp函数.cpp" />
     <ClCompile Include="2的次幂表示.cpp" />
+    <ClCompile Include="6-17复数四则运算.cpp" />
+    <ClCompile Include="7-1用宏求球的体积.cpp" />
+    <ClCompile Include="7-2求arccos值.cpp" />
+    <ClCompile Include="8-1因式分解.cpp" />
+    <ClCompile Include="9-1九宫格.cpp" />
+    <ClCompile Include="9-2 文本加密.cpp" />
+    <ClCompile Include="9-3摩尔斯电码.cpp" />
     <ClCompile Include="Anagrams问题.cpp" />
+    <ClCompile Include="Torry的困惑(基本型).cpp" />
     <ClCompile Include="zctj.c" />
     <ClCompile Include="三个整数的排序.cpp" />
+    <ClCompile Include="上帝造题五分钟.cpp" />
     <ClCompile Include="出现次数最多的整数.cpp" />
     <ClCompile Include="删除数组零元素.cpp" />
     <ClCompile Include="前缀表达式.cpp" />
+    <ClCompile Include="动态数组使用.cpp" />
+    <ClCompile Include="区间k大数查询.cpp" />
+    <ClCompile Include="周期字串.cpp" />
     <ClCompile Include="图形显示.cpp" />
     <ClCompile Include="大小写转换.cpp" />
     <ClCompile Include="字串统计.cpp" />
     <ClCompile Include="寻找数组中最大值.cpp" />
+    <ClCompile Include="最大乘积.cpp" />
     <ClCompile Include="最大最小公倍数.cpp" />
     <ClCompile Include="未名湖边的烦恼.cpp" />
     <ClCompile Include="求最大值.cpp" />
+    <ClCompile Include="盾神与条状项链.cpp" />
     <ClCompile Include="矩阵乘法.cpp" />
+    <ClCompile Include="算法提高 P1001.cpp" />
+    <ClCompile Include="算法提高 排列数.cpp" />
+    <ClCompile Include="算法提高 第二大整数.cpp" />
+    <ClCompile Include="算法提高 简单加法.cpp" />
+    <ClCompile Include="算法提高 约数个数.cpp" />
+    <ClCompile Include="算法提高 逆序排列.cpp" />
+    <ClCompile Include="算法提高 题目1 最大最小.cpp" />
+    <ClCompile Include="算法训练 最小乘积(基本型).cpp" />
+    <ClCompile Include="身份证号码升级.cpp" />
     <ClCompile Include="送分啦.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ConsoleApplication31.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

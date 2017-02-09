@@ -7,11 +7,11 @@ int main()
 	int hs = 0;
 	while (cin >> hs)
 	{
-		for (int d = hs; d; d--)
+		for (int d = 0; d<hs; d++)
 		{
-			for (int z = d; z; z--)
+			for (int z = 0; z<hs-d; z++)
 			{
-				cout << '*' << " ";
+				(z == 0)? cout << '*' : cout << " *";
 			}
 			cout << endl;
 		}

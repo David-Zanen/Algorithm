@@ -11,7 +11,7 @@ int main(void)
 	{
 		int i, max=1, z=0, k=0,g=0;
 		int kai = 0, da;
-		string *bz, wei[60];
+		string *bz, wei[60]={};
 		bz = new string[61];
 		cin >> zfc;
 		da = 0;
